@@ -1,0 +1,17 @@
+body {
+  font-family: Verdana, Arial, Tahoma;
+  background-color: black;
+  text-align: center;
+}
+
+div.header {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+
+}
+
+a.download {
+  color: Aquamarine;
+  font-size: 16px;
+}
