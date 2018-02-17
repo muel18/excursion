@@ -15,3 +15,14 @@ a.download {
   color: Aquamarine;
   font-size: 16px;
 }
+
+div.titles {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+div.greytext {
+  font-size: 21px;
+  color: gray;
+}
